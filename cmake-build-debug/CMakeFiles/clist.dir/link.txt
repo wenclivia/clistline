@@ -1,0 +1,3 @@
+"F:\Media Cache\clion\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\clist.dir/objects.a
+"F:\Media Cache\clion\mingw64\mingw64\bin\ar.exe" cr CMakeFiles\clist.dir/objects.a @CMakeFiles\clist.dir\objects1.rsp
+"F:\Media Cache\clion\mingw64\mingw64\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\clist.dir/objects.a -Wl,--no-whole-archive -o clist.exe -Wl,--out-implib,libclist.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\clist.dir\linklibs.rsp
